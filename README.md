@@ -7,4 +7,4 @@ Each chapter is separated into its own folder but you can learn more about the c
 - **Chapter 2: Python Structures**
     - lists, matrices, dictionaries, tuples, sets
 - **Chapter 3: Executing Programs, Algorithms and Functions**
-    - scripts, modules, time complexity,
+    - scripts, modules, time complexity, bubble sort, binary search, iterative/recursive/dynamic programming algorithms, helper and lambda functions
